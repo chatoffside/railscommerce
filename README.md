@@ -4,7 +4,7 @@ RailsCommerce is an open-source e-commerce system that utilizes Rails and Solidu
 
 ## Steps
 
-==> rails new railscommerce -d mysql
+==> rails new railscommerce -d postgresql
 
 gem 'solidus'
 gem 'solidus_auth_devise'
